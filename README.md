@@ -1,24 +1,5 @@
 # ckeditor-practice
 
-## Project setup
-```
-yarn install
-```
+https://invited-softball-75b.notion.site/Vue-371a0ba79fea4a32ade4358f85f350b0
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+과제
